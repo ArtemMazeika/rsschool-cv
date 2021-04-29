@@ -12,3 +12,12 @@ I want to study and i want to be a junior development
 ### Skills:
 
 -
+
+### Education:
+
+Belarusian State University of Informatics and Radio electronics.
+
+### Languages:
+
+English - A2
+
